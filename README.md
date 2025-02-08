@@ -23,6 +23,6 @@ The training dataset must contain these columns:
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/AI-Log-Classifier-RE-BERT.git  
+git clone https://github.com/yourusername/AI-Log-Classifier-RE-BERT-NLP.git  
 cd AI-Log-Classifier-RE-BERT  
 
