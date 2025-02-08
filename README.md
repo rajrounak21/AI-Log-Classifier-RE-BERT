@@ -1,4 +1,4 @@
-# 📝 AI Log Classifier - RE + BERT + LLM 🚀  
+# 📝 AI Log Classifier - RE + BERT + NLP + LLM 🚀  
 
 This project is an **AI-driven log classification tool** that leverages:  
 ✅ **Regular Expressions (RE)** for rule-based log pattern matching  
